@@ -1,3 +1,3 @@
 # Manga-shop
-simple static web site
+simple web site 
 https://aishuak128.github.io/Manga-shop/
